@@ -7,9 +7,13 @@ The objective of this project is to identify security vulnerabilities in a local
 # Tools Used
 
 1.OpenVAS
+
 2.Nessus
+
 3.Local System
+
 4.Web browser
+
 5.Internet
 
 # Methodology
