@@ -1,10 +1,10 @@
- TASK-3
+# TASK-3
  
 Objective
 
 The objective of this project is to identify security vulnerabilities in a local system by performing an automated vulnerability scan using OpenVAS or Nessus Essentials, analyze the results, and propose suitable remediation steps.
 
-Tools Used
+# Tools Used
 
 1.OpenVAS
 2.Nessus
@@ -12,7 +12,7 @@ Tools Used
 4.Web browser
 5.Internet
 
-Methodology
+# Methodology
 
 Step 1: Tool Installation
 Installed OpenVAS / Nessus Essentials on the system and ensured all vulnerability feeds were updated.
@@ -38,7 +38,6 @@ Critical
 High
 Medium
 Low
-
 Informational
 
 
