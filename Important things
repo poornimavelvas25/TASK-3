@@ -1,0 +1,51 @@
+                                          Things to check scan Completion
+1.Review Report
+
+After completion, check:
+
+CVE ID
+
+CVSS score (0–10)
+
+Severity:
+
+Low
+
+Medium
+
+High
+
+Critical
+
+Affected service
+
+Recommended fix
+
+Research Fixes / Mitigations
+
+2.For each major vulnerability:
+
+Search CVE on:
+
+NVD website
+
+Exploit-DB
+
+Check:
+
+Patch available?
+
+Service update?
+
+Configuration change?
+
+Example fixes:
+
+Update Apache
+
+Disable unused ports
+
+Enforce strong passwords
+
+Enable firewall
+
