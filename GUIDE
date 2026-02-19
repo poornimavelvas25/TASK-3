@@ -1,0 +1,24 @@
+                                   STEP BY STEP GUIDE FOR OPEN VAS
+1.Install OpenVAS
+Commads for installing OpenVAS in kali linux
+sudo apt update
+sudo apt install gvm -y
+sudo gvm-setup
+sudo gvm-start
+
+-> Open firefox browse
+https://127.0.0.1:9392
+
+2.Find your local IP
+Command:- Ipconfig
+
+3.Go to Targets
+
+4.Add new target
+
+5.Enter IP address
+
+6.Start Full Vulnerability Scan 
+  Choose :- Full and Fast
+
+7.Wait for Scan to complete.
