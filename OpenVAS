@@ -14,3 +14,19 @@ The tool performs a comprehensive scan of the specified targets, identifying pot
 -Detects the possible threats (vulnerabilities) in each resource.
 -Eliminates the vulnerabilities on a priority basis.
 
+4.Components of OpenVAS architecture
+-OpenVAS Scanner:
+The primary engine that performs the actual scanning of target systems. It uses Network Vulnerability Tests (NVTs) to detect security vulnerabilities.
+-OpenVAS Manager:
+Manages scan configurations, schedules, and stores scan results. It acts as an intermediary between the scanner and the user interfaces, handling scan requests and processing results.
+-Greenbone Security Assistant (GSA):
+A web-based graphical user interface (GUI) that allows users to manage scans, configure settings, and view scan results. It provides an easy-to-use platform for interacting with OpenVAS.
+-OpenVAS CLI:
+A command-line interface for users who prefer scripting and command-line operations. It enables management of scans, targets, and results through commands and scripts.
+-Greenbone Security Feed (GSF):
+A continuously updated feed that provides the latest Network Vulnerability Tests (NVTs) and security information. It ensures OpenVAS can detect the most recent vulnerabilities.
+-OpenVAS Libraries:
+These libraries provide essential functionalities required by the scanner and manager, such as network communication, data storage, and cryptographic operations.
+-Database:
+The database stores scan results, configurations, and other essential data. It ensures data persistence and retrieval for analysis and reporting purposes.
+
