@@ -9,8 +9,8 @@ It uses a regularly updated database of known vulnerabilities and checks systems
 The tool performs a comprehensive scan of the specified targets, identifying potential vulnerabilities such as outdated software, misconfigurations, and weak passwords and generates comprehensive reports detailing the identified vulnerabilities and provide recommendations for remediation.
 
 3.A vulnerability assessment tool works in the following way as follows.
-->Classifies the system resources.
-->Allocates the enumerable values to the classified resources.
-->Detects the possible threats (vulnerabilities) in each resource.
-->Eliminates the vulnerabilities on a priority basis.
+-Classifies the system resources.
+-Allocates the enumerable values to the classified resources.
+-Detects the possible threats (vulnerabilities) in each resource.
+-Eliminates the vulnerabilities on a priority basis.
 
