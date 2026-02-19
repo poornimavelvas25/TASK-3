@@ -40,9 +40,13 @@ Step 5: Result Analysis
 Reviewed vulnerabilities based on severity:
 
 Critical
+
 High
+
 Medium
+
 Low
+
 Informational
 
 
