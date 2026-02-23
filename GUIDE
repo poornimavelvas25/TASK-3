@@ -4,13 +4,14 @@ Commads for installing OpenVAS in kali linux
 sudo apt update
 sudo apt install gvm -y
 sudo gvm-setup
+
 sudo gvm-start
 
 -> Open firefox browse
 https://127.0.0.1:9392
 
 2.Find your local IP
-Command:- Ipconfig
+Command:- Ifconfig
 
 3.Go to Targets
 
